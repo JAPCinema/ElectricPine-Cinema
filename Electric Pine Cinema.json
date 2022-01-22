@@ -1,0 +1,34 @@
+{
+  "lastUpdated": "2022-01-22T01:38:56+00:00",
+  "providerName": "Jessica Alexis Pendergraph",
+  "language": "en-US",
+  "shortFormVideos": [
+    {
+      "id": "729d15a33078424bae78f76525ef30b7",
+      "title": "Aesthetically Pleasing Moments",
+      "content": {
+        "dateAdded": "2022-01-22T13:34:25+00:00",
+        "duration": 5
+      },
+      "thumbnail": "https://japortfolioart.files.wordpress.com/2021/09/wp-1632655939543.jpg?w=768",
+      "shortDescription": "Beauty In Moments",
+      "releaseDate": "2022-01-22",
+      "longDescription": "Have you ver been in a moment you wished you could slow down and have it last forever? Now you can.",
+      "tags": [
+        "Cinematic",
+        "Moments",
+        "Aesthetic"
+      ],
+      "credits": [
+        {
+          "name": "Jessica Alexis Pendergraph",
+          "role": "director"
+        }
+      ],
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "MPAA"
+      }
+    }
+  ]
+}
